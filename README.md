@@ -6,6 +6,7 @@ These scripts feature some tasks I use on a regular basis for analysis of Liquid
 - **Size Throat**: Sizes the throat for a given engine spec and thrust.
 - **Sweep Expansion Ratio**: Sweep through different expansion ratios for a given altitude, and find the optimum.
 - **Sweep Mixture Ratio**: Sweep through mixture ratios to find an optimum and plot it with combustion temperature included too.
+- **Injector/Engine Equilibrium (run.py)**: Iterative injector-coupled chamber analysis using `cea` 3.x (LOX + Ethanol/H2O).
 
 I am planning on extending this list.
 ## Contributing
