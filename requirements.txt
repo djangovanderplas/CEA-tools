@@ -1,0 +1,3 @@
+numpy~=2.3.2
+matplotlib~=3.10.5
+cea~=3.0.0
